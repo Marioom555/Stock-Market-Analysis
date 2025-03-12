@@ -15,17 +15,9 @@ This project leverages **Natural Language Processing (NLP)** and **Machine Learn
 - **Pandas & NumPy** – For data manipulation and analysis.
 - **NLTK & TextBlob** – For sentiment analysis.
 
-### 🔹 **Machine Learning & Modeling**
-- **Scikit-Learn** – For predictive modeling.
-- **XGBoost & LSTM** – Advanced stock prediction models.
-
 ### 🔹 **Visualization & Dashboard**
 - **Matplotlib & Seaborn** – For data visualization.
 - **Plotly & Streamlit** – Interactive dashboard and data exploration.
-
-### 🔹 **Data Sources**
-- **Yahoo Finance API** – Fetches real-time and historical stock data.
-- **Alpha Vantage API** – Provides market indicators and news.
 
 ## 🛠️ Setup & Installation
 1. Clone this repository:
@@ -52,12 +44,13 @@ This project leverages **Natural Language Processing (NLP)** and **Machine Learn
 
 ## 📊 Sample Visualizations
 ### Noumber Moving Average
-![Stock Trend](https://github.com/user-attachments/assets/sample-stock-trend.png)
-
+![Image](https://github.com/user-attachments/assets/97255a58-df84-4a5c-ae5f-635019f20fdb)
 ### Car Company visualization
-![Sentiment Analysis](https://github.com/user-attachments/assets/sample-sentiment.png)
+![Image](https://github.com/user-attachments/assets/8cb3aafa-f35a-4d47-8d4c-69cc5b8fa3da)
 ### ford_values visualization
+![Image](https://github.com/user-attachments/assets/2ffa8a81-1af1-4e08-8e72-8b506195cb38)
 ### returns from companies
+![Image](https://github.com/user-attachments/assets/1daeac1c-9ca1-4a2a-a78b-3ee575e47f96)
 ### Cumulative Return vs Time
-
+![Image](https://github.com/user-attachments/assets/a55f178f-d42e-4ebf-96b6-3f52b02b11d9)
 
