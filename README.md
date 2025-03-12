@@ -1,7 +1,7 @@
-# 📈 Stock Market Analysis using NLP & Machine Learning
+# 📈 Stock Market Analysis using NLP
 
 ## 📌 About the Project
-This project leverages **Natural Language Processing (NLP)** and **Machine Learning (ML)** techniques to analyze stock market trends, predict stock price movements, and derive insights from financial data. It processes historical stock data, news sentiment, and technical indicators to provide actionable insights.
+This project leverages **Natural Language Processing (NLP)**  techniques to analyze stock market trends, predict stock price movements, and derive insights from financial data. It processes historical stock data, news sentiment, and technical indicators to provide actionable insights.
 
 ## 🚀 Features
 - **Stock Price Prediction** – Uses machine learning models to predict stock prices based on historical trends.
@@ -18,30 +18,6 @@ This project leverages **Natural Language Processing (NLP)** and **Machine Learn
 ### 🔹 **Visualization & Dashboard**
 - **Matplotlib & Seaborn** – For data visualization.
 - **Plotly & Streamlit** – Interactive dashboard and data exploration.
-
-## 🛠️ Setup & Installation
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/your-repo/stock-market-analysis.git
-    cd stock-market-analysis
-    ```
-
-2. Create a virtual environment:
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
-    ```
-
-3. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. Run the Jupyter Notebook:
-    ```bash
-    jupyter notebook
-    ```
-
 ## 📊 Sample Visualizations
 ### Noumber Moving Average
 ![Image](https://github.com/user-attachments/assets/97255a58-df84-4a5c-ae5f-635019f20fdb)
